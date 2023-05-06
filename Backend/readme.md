@@ -1,5 +1,5 @@
 The backend for the application is built using Node.JS with MongoDB.
-It accepts request for viewing -
+It accepts request for viewing - \n
 • all patients list, 
 • list of patients visited on a particular date,
 • list of patients by name,
