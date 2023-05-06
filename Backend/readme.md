@@ -6,3 +6,4 @@ It accepts request for viewing -
 • history of a particular patient containing info about all the previous visits,
 • update info of a particular patient,
 • register a new patient.
+It also sends a SMS on the contact no. of the patient registered containing info about the prescription of his/her recent visit.
