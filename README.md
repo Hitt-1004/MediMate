@@ -3,7 +3,8 @@ MediMate is a clinic management and record keeping app built using Flutter. It a
 
 Features
 Create and edit patient records with details such as name, age, gender, contact number and medical history
-Create and edit prescriptions with details such as medication name, dosage and period
+Create and edit prescriptions with details such as medication name, dosage and period.
+
 Installation
 To install MediMate, you need to have Flutter SDK and an Android or iOS device or emulator. 
 You can clone this repository.
