@@ -1,5 +1,5 @@
 # MediMate
-MediMate is a clinic management and record keeping app built using Flutter. It allows clinic staff to manage patients and prescriptions with ease and efficiency.
+MediMate is a clinic management and record keeping app built using Flutter, Node.JS, Express.JS and MongoDB. It allows clinic staff to manage patients and prescriptions with ease and efficiency.
 
 ## Features
 - Create and edit patient records with details such as name, age, gender, contact number and medical history
